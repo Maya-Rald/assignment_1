@@ -76,6 +76,7 @@ footer {
 }
 
 
+/* 以下メディアクエリ */
 @media screen and (max-width:768px) {
     .space {
         width: 100%;
